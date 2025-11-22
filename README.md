@@ -35,16 +35,6 @@ The architecture simulates a production environment where:
 
 ---
 
-## 👨‍🎓 Student Information
-
-- **Name**: Alireza Mirzaei
-- **Student ID**: amirzaei7
-- **Course**: MST300 - Azure
-- **Semester**: Fall 2025
-- **Institution**: Seneca College
-
----
-
 ## 🏗️ Architecture
 
 ### Network Topology
@@ -295,3 +285,4 @@ This project is submitted as academic work for MST300 course at Seneca College.
 **⭐ If you found this project helpful, please consider giving it a star! ⭐**
 
 </div>
+
