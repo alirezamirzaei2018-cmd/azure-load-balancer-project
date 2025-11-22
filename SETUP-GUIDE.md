@@ -13,22 +13,6 @@
 
 ---
 
-## Prerequisites
-
-### Required Information
-- ✅ Azure for Students account (ODLxxx format)
-- ✅ Student ID: amirzaei7
-- ✅ Assigned IP ranges:
-  - vnet1: 10.73.0.0/16
-  - vnet2: 10.74.0.0/16
-
-### Tools Needed
-- Web browser (Edge/Chrome recommended)
-- Screen recording software (OBS Studio, Xbox Game Bar, etc.)
-- Screenshot tool (Snipping Tool, ShareX, etc.)
-
----
-
 ## Phase 1: Network Foundation
 
 ### Step 1.1: Create Resource Group
@@ -694,3 +678,4 @@ See [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) for detailed solutions.
 ---
 
 **Next**: See [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) for detailed problem-solving.
+
