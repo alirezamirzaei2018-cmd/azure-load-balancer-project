@@ -30,7 +30,7 @@ Region: (US) East US
 
 4. Click **Review + create** → **Create**
 
-📸 **Screenshot 01**: `./screenshots/01-resource-group/resource-group-overview.png`
+📸 **Screenshot 01**: `screenshots/01-resource-group/resource-group-overview.png`
 - Show resource group name and region
 
 ---
@@ -646,5 +646,6 @@ Before each screenshot, ensure:
 - ✅ No sensitive information (passwords, etc.)
 - ✅ Azure portal breadcrumb shows location
 - ✅ Date/time visible when needed
+
 
 
